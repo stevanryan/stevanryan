@@ -19,4 +19,4 @@ ___
 ___
 
 #### Current Mini-project
-https://github.com/stevanryan/katze-app
+soon, i'll do API
