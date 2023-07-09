@@ -15,8 +15,15 @@ ___
 <!-- - ⚡ Fun fact: ... -->
 
 ### 🚀 Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+Backend things
+<!-- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) -->
 ___
 
 #### Current Mini-project
 soon, i'll do API
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevanryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
