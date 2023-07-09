@@ -1,6 +1,6 @@
-## Hi there 👋
-##### My name is Stevan Ryan
-___
+### 👋 Hello there 
+My name is Stevan Ryan
+<!-- ___ -->
 <!-- **stevanryan/stevanryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
@@ -14,16 +14,31 @@ ___
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+
 ### 🚀 Currently Learning:
 Backend things
 <!-- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) -->
-___
+<!-- ___ -->
 
-#### Current Mini-project
-soon, i'll do API
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevanryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+### 📌 Current Mini-project:
+Soon, I'll do API. Currently not working on any mini-project.
+<!-- ___ -->
+
+
+### 📊 Most Used Language:
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevanryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+</div>
+
+### -->
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevanryan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+</div>
+
+### -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevanryan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
