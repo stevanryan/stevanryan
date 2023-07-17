@@ -1,4 +1,4 @@
-### 👋 Hello there 
+## 👋 Hello there 
 My name is Stevan Ryan
 <!-- ___ -->
 <!-- **stevanryan/stevanryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -15,18 +15,18 @@ My name is Stevan Ryan
 <!-- - ⚡ Fun fact: ... -->
 
 
-### 🚀 Currently Learning:
+## 🚀 Currently Learning:
 Backend things
 <!-- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) -->
 <!-- ___ -->
 
 
-### 📌 Current Mini-project:
-Soon, I'll do API. Currently not working on any mini-project.
+## 📌 Current Mini-project:
+Currently, I'm not working on any mini-project.
 <!-- ___ -->
 
 
-### 📊 Most Used Language:
+## 📊 Most Used Language:
 <!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevanryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
