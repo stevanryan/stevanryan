@@ -1,5 +1,5 @@
 ## 👋 Hello there 
-My name is Stevan Ryan
+My name is Stevan Ryan.
 <!-- ___ -->
 <!-- **stevanryan/stevanryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -16,7 +16,7 @@ My name is Stevan Ryan
 
 
 ## 🚀 Currently Learning:
-Backend things
+Backend things.
 <!-- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) -->
 <!-- ___ -->
 
