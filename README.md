@@ -21,8 +21,8 @@ Backend things.
 <!-- ___ -->
 
 
-## 📌 Current Mini-project:
-Currently, I'm not working on any mini-project.
+<!-- ## 📌 Current Mini-project: -->
+<!-- Currently, I'm not working on any mini-project. -->
 <!-- ___ -->
 
 
