@@ -16,7 +16,7 @@ My name is Stevan Ryan.
 
 
 ## 🚀 Currently Learning:
-Backend things.
+Anything related to coding.
 <!-- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) -->
 <!-- ___ -->
 
